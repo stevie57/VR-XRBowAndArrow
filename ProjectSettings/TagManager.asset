@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Hand
+  - arrow
+  - ground
+  - gameManager
   layers:
   - Default
   - TransparentFX

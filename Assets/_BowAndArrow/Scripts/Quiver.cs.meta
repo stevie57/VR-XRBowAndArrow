@@ -3,7 +3,13 @@ guid: 8e5f8d9f9b7680c4ea92da637174b928
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - m_InteractionManager: {instanceID: 0}
+  - m_AttachTransform: {instanceID: 0}
+  - m_StartingSelectedInteractable: {instanceID: 0}
+  - m_InteractableHoverMeshMaterial: {instanceID: 0}
+  - arrowPrefab: {fileID: 8542102953145869890, guid: 5c51937e899ec9443a1757aefe9d49cb,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

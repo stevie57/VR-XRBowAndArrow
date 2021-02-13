@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_BowAndArrow/Main.unity
+    path: Assets/_BowAndArrow/Scene/Main.unity
     guid: 0bdc2251efd355d45add28195d99d336
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6f5442df7fad3ca4ba56d445cca77918,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 83c446a26a343474fb11e9a13ab57555,
+      type: 2}
